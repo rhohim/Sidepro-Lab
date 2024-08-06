@@ -1,0 +1,65 @@
+[
+    {
+        "self_diagnos" : {
+            "gerd_akut": [
+                {
+                    "gejala": "mual",
+                    "value": "p1"
+                },
+                {
+                    "gejala": "sering sendawa",
+                    "value": "p1"
+                },
+                {
+                    "gejala": "tubuh lemas",
+                    "value": "p1"
+                },
+                {
+                    "gejala": "nafsu makan menurun",
+                    "value": "p1"
+                },
+                {
+                    "gejala": "rasa mengganjal di tenggorokan",
+                    "value": "p1"
+                },
+                {
+                    "gejala": "muntah",
+                    "value": "p1"
+                },
+                {
+                    "gejala": "kembung",
+                    "value": "p1"
+                }
+            ] ,
+            "gerd_kronis" : [
+                {
+                    "gejala" : "tubuh lemas",
+                    "value" : "p2"
+                },
+                {
+                    "gejala" : "sakit perut bagian atas",
+                    "value" : "p2"
+                },
+                {
+                    "gejala" : "bab berdarah",
+                    "value" : "p2"
+                },
+                {
+                    "gejala" : "muntah berdarah",
+                    "value" : "p2"
+                },
+                {
+                    "gejala" : "mudah lelah",
+                    "value" : "p2"
+                },
+                {
+                    "gejala" : "dada serasa terbakar",
+                    "value" : "p2"
+                }
+            ]
+
+
+        } 
+        
+    }
+]
